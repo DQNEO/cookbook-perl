@@ -3,7 +3,7 @@
 # Usage
 
 ```
-cookbook 'perlbuild', github: 'DQNEO/cookbook-plenv'
+cookbook 'perlbuild', github: 'DQNEO/cookbook-perlbuild
 ```
 
 ```
