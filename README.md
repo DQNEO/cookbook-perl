@@ -6,7 +6,7 @@ Install perl by perlbuild.
 
 in your `Berksfile`
 ```
-cookbook 'perlbuild', github: 'DQNEO/cookbook-perlbuild
+cookbook 'perl', github: 'DQNEO/cookbook-perl
 ```
 
 and run
