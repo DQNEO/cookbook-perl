@@ -15,6 +15,7 @@ berks vendor cookbooks
 # Attributes
 
 |name|default value|
+|---|---|---|
 |['perl']['prefix']|/opt/perl|
 |['perl']['version']| 5.20.1|
 
