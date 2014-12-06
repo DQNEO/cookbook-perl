@@ -2,7 +2,7 @@
 
 Install perl by perlbuild.
 
-# Usage
+## Usage
 
 in your `Berksfile`
 ```
@@ -14,7 +14,7 @@ and run
 berks vendor cookbooks
 ```
 
-# Recipes
+## Recipes
 ### perl::default
 
 install perl
@@ -27,7 +27,7 @@ install cpanm into ['perl']['prefix']/bin/cpanm
 
 install carton into ['perl']['prefix']/bin/carton
 
-# Attributes
+## Attributes
 
 |name|default value|
 |---|---|---|
