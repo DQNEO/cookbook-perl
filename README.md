@@ -2,13 +2,14 @@
 
 # Usage
 
+in your `Berksfile`
 ```
 cookbook 'perlbuild', github: 'DQNEO/cookbook-perlbuild
 ```
 
+and run
 ```
 berks vendor cookbooks
-vagrant up
 ```
 
 # Attributes
